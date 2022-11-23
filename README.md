@@ -28,3 +28,4 @@
 - git checkout -b (branch name) -> Creates new branch and switch to it.
 - git branch -d (branch name) -> to delet branch (-d -> delete)
 - git merge (branch name) -> Merge branch to origin
+- git push --set-upstream remote (branch name) ->set upstream branch.
