@@ -18,4 +18,11 @@
 - git push -u origin (branch name) -> push to remote repository (main)
 - git remote add origin (remote repostiory) -> add/link remote repository to local repository
 - git pull
-- 
+- git branch -> Know what barnches are available on your local machine
+- git branch -r -> Know what barnches are available on your remote machine 
+- git branch -a -> Know what barnches are available on both your remote and local machine
+
+- git branch (new branch name) -> Create new branch
+- git checkout (branch name) -> switch between branches
+- git checkout - -> switch to previous branch
+- git checkout -b (branch name) -> Creates new branch and switch to it.
